@@ -1,0 +1,42 @@
+body {
+	font-family: 'Lato', sans-serif;
+	color: #dcd8cf;
+	font-weight: 300;
+	background-color: #232b2b;
+}
+
+a:link {
+    color: #7fdbff;
+}
+
+/* visited link */
+a:visited {
+    color: #7fdbff;
+}
+
+/* mouse over link */
+a:hover {
+    color: #e25d33;
+}
+
+/* selected link */
+a:active {
+    color: #e25d33;
+}
+
+.text-muted {
+	color: #e25d33;
+}
+
+.text-thin {
+	font-weight: 200;
+}
+
+.title-supper {
+	font-size: 50px;
+}
+
+.title-logo {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
